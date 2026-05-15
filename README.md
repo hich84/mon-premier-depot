@@ -1,8 +1,6 @@
 
- # 👋 Bonjour, je suis Hichem !
- ## Qui suis-je ? Je m'appelle Hichem. Je suis stagiaire dans
- le programme PPNI 2026. J'apprends le numérique avec Auxilia
-Formation.
+ # 👋 Bonjour, je suis Hichem ! 
+ ## Qui suis-je ? Je m'appelle Hichem. Je suis stagiaire dans le programme PPNI 2026. J'apprends le numérique avec Auxilia Formation.
  j'aime coder
  Retrouve-moi ici :https://github.com/hich84/mon-premier-depot/edit/main/README.md
           
