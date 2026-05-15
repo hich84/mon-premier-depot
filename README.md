@@ -1,5 +1,4 @@
 
- # ← Ce symbole crée un gros titre
  # 👋 Bonjour, je suis Hichem !
  ## Qui suis-je ? Je m'appelle Hichem. Je suis stagiaire dans
  le programme PPNI 2026. J'apprends le numérique avec Auxilia
